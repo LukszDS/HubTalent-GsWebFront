@@ -60,10 +60,11 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background flex flex-col items-center">
       <Header />
+
       
       <main className="w-full max-w-7xl py-8 space-y-8">
         {/* Hero Section */}
-        <section className="text-center space-y-4 py-8">
+        <section className="text-center space-y-4 py-8 px-0">
           <h1
             className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl text-blue-500"
           >
