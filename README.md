@@ -14,6 +14,9 @@
     <p style="font-size:17px; color:#444;">
         Projeto desenvolvido utilizando <b>Next.js + TypeScript (TSX)</b>, integrando os conteúdos das disciplinas de 
         <b>Front-End</b> e <b>Web</b>. Este documento orienta como abrir, instalar e executar o sistema.
+            <!-- Seção -->
+    <h2 style="font-size:24px; margin-top:30px; color:#1a1a1a;">📁 Sobre o Projeto</h2>
+    </p>O objetivo é permitir que os usuários explorem perfis de profissionais fictícios, com informações pessoais, acadêmicas, profissionais e comportamentais, promovendo uma experiência moderna, responsiva e dinâmica — tudo dentro de uma Single Page Application (SPA).
     </p>
     <div style="
     background: #ffffff;
@@ -23,24 +26,17 @@
     margin-bottom: 35px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.06);
 ">
-
+<h3>Integrantes</h3>
  <ul style="list-style: none; padding-left: 0; margin: 0; font-size: 17px; color:#333;">
         <li style="padding: 4px 0;"><b>Lucas Gilmar Pedro da Silva</b> — RM566231</li>
         <li style="padding: 4px 0;"><b>Murilo da Silva Basto</b> — RM565445</li>
     </ul>
 </div>
-
-<h2 style="font-size:24px; margin-top:30px; color:#1a1a1a;">Vercel</h2>
-    <p style="font-size:16px; color:#444;">
-       Link do Vercel - https://sprint4frontweb.vercel.app/fanzone
-    </p>
-
-  <hr style="margin: 30px 0; border: 0; border-top: 1px solid #ddd;">
     <!-- Seção -->
     <h2 style="font-size:24px; margin-top:30px; color:#1a1a1a;">📁 Como abrir o projeto</h2>
     <ol style="padding-left:20px; font-size:16px;">
         <li>Clone o repositório:
-            <pre style="background:#f0f0f0; padding:12px; border-radius:6px; font-size:15px;"><code>git clone https://github.com/Lucasvssz/Sprint4-Front-e-Web.git</code></pre>
+            <pre style="background:#f0f0f0; padding:12px; border-radius:6px; font-size:15px;"><code>git clone https://github.com/LukszDS/HubTalent-GsWebFront</code></pre>
         </li>
         <li>Acesse a pasta:
             <pre style="background:#f0f0f0; padding:12px; border-radius:6px; font-size:15px;"><code>cd hub-talent</code></pre>
@@ -67,15 +63,6 @@
     
   <p>O projeto abrirá em:</p>
     <pre style="background:#f0f0f0; padding:12px; border-radius:6px; font-size:15px;"><code>http://localhost:3000</code></pre>
-  <!-- Seção -->
-    <h2 style="font-size:24px; margin-top:30px; color:#1a1a1a;">✅ O que deve funcionar ao iniciar</h2>
-    <ul style="padding-left:20px; font-size:16px;">
-        <li>Build inicial do Next.js sem erros</li>
-        <li>Rotas funcionando</li>
-        <li>Componentes TSX renderizando corretamente</li>
-        <li>Layout responsivo</li>
-        <li>Navegação SPA fluida</li>
-    </ul>
    <!-- Seção -->
     <h2 style="font-size:24px; margin-top:30px; color:#1a1a1a;">🏗️ Estrutura geral (modelo)</h2>
     <pre style="background:#f0f0f0; padding:15px; border-radius:6px; font-size:15px;"><code>
@@ -125,10 +112,6 @@ Sprint4-Front-e-Web/
         <li>Node.js</li>
         <li>CSS Modules / Tailwind (dependendo do projeto)</li>
     </ul>
-<!-- Seção -->
-    <h2 style="font-size:24px; margin-top:30px; color:#1a1a1a;">✅ Conclusão</h2>
-    <p style="font-size:16px; color:#444;">
-        Readme com garantia para que qualquer professor consiga instalar, abrir, rodar e avaliar o projeto com clareza.
-    </p>
+
 
 </body>
